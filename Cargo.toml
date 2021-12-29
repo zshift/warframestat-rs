@@ -3,6 +3,8 @@ name = "warframestat-rs"
 version = "0.0.1"
 authors = ["Peter D. Faria", "OpenAPI Generator team and contributors"]
 edition = "2018"
+description = "Rust API for the public WarframeStat APIs provided at https://warframestat.us"
+license = "MIT"
 
 [dependencies]
 serde = "^1.0"
